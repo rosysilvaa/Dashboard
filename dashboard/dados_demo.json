@@ -1,0 +1,628 @@
+{
+  "resumo": {
+    "totalVendas": 320,
+    "faturamento": 356460.27,
+    "ticketMedio": 1113.94,
+    "totalClientes": 20,
+    "totalCidades": 12
+  },
+  "produtosMaisVendidos": [
+    {
+      "produto": "Notebook Gamer X15",
+      "quantidade": 23,
+      "receita": 111717.71
+    },
+    {
+      "produto": "Monitor 27\" 4K",
+      "quantidade": 28,
+      "receita": 52697.25
+    },
+    {
+      "produto": "Cadeira Ergonômica",
+      "quantidade": 42,
+      "receita": 52609.5
+    },
+    {
+      "produto": "Fone Bluetooth ANC",
+      "quantidade": 43,
+      "receita": 25217.9
+    },
+    {
+      "produto": "Mesa Escritório Compacta",
+      "quantidade": 30,
+      "receita": 23490.6
+    },
+    {
+      "produto": "Impressora Multifuncional",
+      "quantidade": 24,
+      "receita": 20811.85
+    }
+  ],
+  "vendasPorCidade": [
+    {
+      "cidade": "Fortaleza/CE",
+      "vendas": 32,
+      "receita": 50213.04
+    },
+    {
+      "cidade": "Belo Horizonte/MG",
+      "vendas": 32,
+      "receita": 40617.51
+    },
+    {
+      "cidade": "Salvador/BA",
+      "vendas": 24,
+      "receita": 35820.41
+    },
+    {
+      "cidade": "Natal/RN",
+      "vendas": 32,
+      "receita": 33512.65
+    },
+    {
+      "cidade": "São Paulo/SP",
+      "vendas": 33,
+      "receita": 31888.82
+    },
+    {
+      "cidade": "Curitiba/PR",
+      "vendas": 19,
+      "receita": 31020.73
+    },
+    {
+      "cidade": "Porto Alegre/RS",
+      "vendas": 27,
+      "receita": 27063.87
+    },
+    {
+      "cidade": "Olinda/PE",
+      "vendas": 26,
+      "receita": 26268.87
+    }
+  ],
+  "topClientes": [
+    {
+      "cliente": "Carlos Eduardo Lima",
+      "compras": 19,
+      "receita": 39722.87
+    },
+    {
+      "cliente": "Camila Nogueira",
+      "compras": 15,
+      "receita": 35696.79
+    },
+    {
+      "cliente": "Larissa Martins",
+      "compras": 22,
+      "receita": 29960.34
+    },
+    {
+      "cliente": "João Pedro Costa",
+      "compras": 13,
+      "receita": 29220.43
+    },
+    {
+      "cliente": "Diego Santos",
+      "compras": 15,
+      "receita": 21466.14
+    },
+    {
+      "cliente": "Beatriz Ramos",
+      "compras": 19,
+      "receita": 21100.48
+    }
+  ],
+  "vendasPorCategoria": [
+    {
+      "categoria": "Eletrônicos",
+      "receita": 248943.28
+    },
+    {
+      "categoria": "Móveis",
+      "receita": 82216.06
+    },
+    {
+      "categoria": "Acessórios",
+      "receita": 25300.93
+    }
+  ],
+  "vendasPorCanal": [
+    {
+      "canal": "Site",
+      "vendas": 78,
+      "receita": 107968.34
+    },
+    {
+      "canal": "Marketplace",
+      "vendas": 77,
+      "receita": 103977.03
+    },
+    {
+      "canal": "App",
+      "vendas": 87,
+      "receita": 89379.27
+    },
+    {
+      "canal": "Loja Física",
+      "vendas": 78,
+      "receita": 55135.63
+    }
+  ],
+  "serieDiaria": [
+    {
+      "data": "2026-05-01",
+      "vendas": 1,
+      "receita": 258.0
+    },
+    {
+      "data": "2026-05-03",
+      "vendas": 2,
+      "receita": 1898.0
+    },
+    {
+      "data": "2026-05-04",
+      "vendas": 4,
+      "receita": 25921.91
+    },
+    {
+      "data": "2026-05-05",
+      "vendas": 1,
+      "receita": 332.4
+    },
+    {
+      "data": "2026-05-06",
+      "vendas": 3,
+      "receita": 1509.71
+    },
+    {
+      "data": "2026-05-07",
+      "vendas": 4,
+      "receita": 1519.3
+    },
+    {
+      "data": "2026-05-08",
+      "vendas": 3,
+      "receita": 1483.52
+    },
+    {
+      "data": "2026-05-09",
+      "vendas": 4,
+      "receita": 3260.63
+    },
+    {
+      "data": "2026-05-10",
+      "vendas": 4,
+      "receita": 6308.45
+    },
+    {
+      "data": "2026-05-11",
+      "vendas": 5,
+      "receita": 6085.5
+    },
+    {
+      "data": "2026-05-12",
+      "vendas": 5,
+      "receita": 10545.01
+    },
+    {
+      "data": "2026-05-13",
+      "vendas": 4,
+      "receita": 1916.65
+    },
+    {
+      "data": "2026-05-14",
+      "vendas": 5,
+      "receita": 7940.86
+    },
+    {
+      "data": "2026-05-15",
+      "vendas": 3,
+      "receita": 1508.8
+    },
+    {
+      "data": "2026-05-16",
+      "vendas": 3,
+      "receita": 1472.6
+    },
+    {
+      "data": "2026-05-17",
+      "vendas": 5,
+      "receita": 2786.3
+    },
+    {
+      "data": "2026-05-18",
+      "vendas": 2,
+      "receita": 520.81
+    },
+    {
+      "data": "2026-05-19",
+      "vendas": 5,
+      "receita": 6735.0
+    },
+    {
+      "data": "2026-05-20",
+      "vendas": 1,
+      "receita": 449.7
+    },
+    {
+      "data": "2026-05-21",
+      "vendas": 5,
+      "receita": 6239.55
+    },
+    {
+      "data": "2026-05-23",
+      "vendas": 1,
+      "receita": 349.9
+    },
+    {
+      "data": "2026-05-24",
+      "vendas": 1,
+      "receita": 142.41
+    },
+    {
+      "data": "2026-05-25",
+      "vendas": 4,
+      "receita": 1165.75
+    },
+    {
+      "data": "2026-05-26",
+      "vendas": 4,
+      "receita": 10844.7
+    },
+    {
+      "data": "2026-05-27",
+      "vendas": 3,
+      "receita": 1205.62
+    },
+    {
+      "data": "2026-05-28",
+      "vendas": 3,
+      "receita": 3431.72
+    },
+    {
+      "data": "2026-05-29",
+      "vendas": 2,
+      "receita": 369.8
+    },
+    {
+      "data": "2026-05-30",
+      "vendas": 3,
+      "receita": 3550.97
+    },
+    {
+      "data": "2026-05-31",
+      "vendas": 5,
+      "receita": 3275.9
+    },
+    {
+      "data": "2026-06-01",
+      "vendas": 4,
+      "receita": 5947.85
+    },
+    {
+      "data": "2026-06-02",
+      "vendas": 2,
+      "receita": 5506.1
+    },
+    {
+      "data": "2026-06-03",
+      "vendas": 2,
+      "receita": 569.8
+    },
+    {
+      "data": "2026-06-04",
+      "vendas": 2,
+      "receita": 1358.05
+    },
+    {
+      "data": "2026-06-05",
+      "vendas": 3,
+      "receita": 1547.61
+    },
+    {
+      "data": "2026-06-06",
+      "vendas": 4,
+      "receita": 3110.53
+    },
+    {
+      "data": "2026-06-07",
+      "vendas": 1,
+      "receita": 854.05
+    },
+    {
+      "data": "2026-06-08",
+      "vendas": 7,
+      "receita": 9644.32
+    },
+    {
+      "data": "2026-06-09",
+      "vendas": 4,
+      "receita": 2153.61
+    },
+    {
+      "data": "2026-06-10",
+      "vendas": 1,
+      "receita": 799.0
+    },
+    {
+      "data": "2026-06-11",
+      "vendas": 1,
+      "receita": 699.8
+    },
+    {
+      "data": "2026-06-12",
+      "vendas": 3,
+      "receita": 2265.55
+    },
+    {
+      "data": "2026-06-13",
+      "vendas": 5,
+      "receita": 2750.37
+    },
+    {
+      "data": "2026-06-14",
+      "vendas": 4,
+      "receita": 5095.0
+    },
+    {
+      "data": "2026-06-15",
+      "vendas": 4,
+      "receita": 2139.81
+    },
+    {
+      "data": "2026-06-16",
+      "vendas": 1,
+      "receita": 341.82
+    },
+    {
+      "data": "2026-06-17",
+      "vendas": 4,
+      "receita": 3172.52
+    },
+    {
+      "data": "2026-06-18",
+      "vendas": 3,
+      "receita": 1172.11
+    },
+    {
+      "data": "2026-06-19",
+      "vendas": 4,
+      "receita": 3956.72
+    },
+    {
+      "data": "2026-06-20",
+      "vendas": 2,
+      "receita": 1057.22
+    },
+    {
+      "data": "2026-06-21",
+      "vendas": 4,
+      "receita": 2368.4
+    },
+    {
+      "data": "2026-06-22",
+      "vendas": 1,
+      "receita": 3507.3
+    },
+    {
+      "data": "2026-06-23",
+      "vendas": 3,
+      "receita": 5129.2
+    },
+    {
+      "data": "2026-06-24",
+      "vendas": 3,
+      "receita": 1608.8
+    },
+    {
+      "data": "2026-06-26",
+      "vendas": 7,
+      "receita": 4515.41
+    },
+    {
+      "data": "2026-06-27",
+      "vendas": 3,
+      "receita": 2247.9
+    },
+    {
+      "data": "2026-06-28",
+      "vendas": 3,
+      "receita": 5001.15
+    },
+    {
+      "data": "2026-06-29",
+      "vendas": 5,
+      "receita": 2336.82
+    },
+    {
+      "data": "2026-06-30",
+      "vendas": 8,
+      "receita": 21975.09
+    },
+    {
+      "data": "2026-07-01",
+      "vendas": 5,
+      "receita": 10084.6
+    },
+    {
+      "data": "2026-07-03",
+      "vendas": 2,
+      "receita": 3882.56
+    },
+    {
+      "data": "2026-07-04",
+      "vendas": 2,
+      "receita": 1898.0
+    },
+    {
+      "data": "2026-07-05",
+      "vendas": 3,
+      "receita": 2453.75
+    },
+    {
+      "data": "2026-07-06",
+      "vendas": 1,
+      "receita": 284.82
+    },
+    {
+      "data": "2026-07-07",
+      "vendas": 2,
+      "receita": 1558.9
+    },
+    {
+      "data": "2026-07-08",
+      "vendas": 1,
+      "receita": 149.9
+    },
+    {
+      "data": "2026-07-09",
+      "vendas": 5,
+      "receita": 4141.42
+    },
+    {
+      "data": "2026-07-10",
+      "vendas": 6,
+      "receita": 8745.03
+    },
+    {
+      "data": "2026-07-11",
+      "vendas": 2,
+      "receita": 3726.3
+    },
+    {
+      "data": "2026-07-12",
+      "vendas": 6,
+      "receita": 3436.82
+    },
+    {
+      "data": "2026-07-13",
+      "vendas": 7,
+      "receita": 8189.61
+    },
+    {
+      "data": "2026-07-14",
+      "vendas": 8,
+      "receita": 3574.72
+    },
+    {
+      "data": "2026-07-15",
+      "vendas": 1,
+      "receita": 899.8
+    },
+    {
+      "data": "2026-07-16",
+      "vendas": 6,
+      "receita": 20836.3
+    },
+    {
+      "data": "2026-07-17",
+      "vendas": 1,
+      "receita": 1078.2
+    },
+    {
+      "data": "2026-07-18",
+      "vendas": 2,
+      "receita": 677.72
+    },
+    {
+      "data": "2026-07-19",
+      "vendas": 5,
+      "receita": 12004.53
+    },
+    {
+      "data": "2026-07-20",
+      "vendas": 3,
+      "receita": 2249.5
+    },
+    {
+      "data": "2026-07-21",
+      "vendas": 1,
+      "receita": 129.9
+    },
+    {
+      "data": "2026-07-22",
+      "vendas": 5,
+      "receita": 6196.81
+    },
+    {
+      "data": "2026-07-23",
+      "vendas": 5,
+      "receita": 1499.7
+    },
+    {
+      "data": "2026-07-24",
+      "vendas": 5,
+      "receita": 2888.58
+    },
+    {
+      "data": "2026-07-25",
+      "vendas": 3,
+      "receita": 1817.7
+    },
+    {
+      "data": "2026-07-26",
+      "vendas": 2,
+      "receita": 639.6
+    },
+    {
+      "data": "2026-07-27",
+      "vendas": 4,
+      "receita": 6315.41
+    },
+    {
+      "data": "2026-07-28",
+      "vendas": 4,
+      "receita": 3574.9
+    },
+    {
+      "data": "2026-07-29",
+      "vendas": 3,
+      "receita": 896.5
+    },
+    {
+      "data": "2026-07-30",
+      "vendas": 3,
+      "receita": 453.21
+    },
+    {
+      "data": "2026-07-31",
+      "vendas": 2,
+      "receita": 4402.05
+    },
+    {
+      "data": "2026-08-01",
+      "vendas": 2,
+      "receita": 3575.2
+    },
+    {
+      "data": "2026-08-02",
+      "vendas": 3,
+      "receita": 1596.0
+    },
+    {
+      "data": "2026-08-03",
+      "vendas": 3,
+      "receita": 7717.8
+    },
+    {
+      "data": "2026-08-04",
+      "vendas": 4,
+      "receita": 2094.54
+    },
+    {
+      "data": "2026-08-06",
+      "vendas": 3,
+      "receita": 2252.8
+    },
+    {
+      "data": "2026-08-07",
+      "vendas": 4,
+      "receita": 3155.8
+    },
+    {
+      "data": "2026-08-08",
+      "vendas": 3,
+      "receita": 1519.91
+    }
+  ]
+}
