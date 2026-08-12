@@ -173,3 +173,8 @@ para volumes pequenos/médios, mas vale evoluir para produção:
 
 - **Infra**: Terraform, AWS S3, Lambda (Python 3.12), DynamoDB, API Gateway (HTTP API)
 - **Front-end**: HTML, CSS, JavaScript puro + Chart.js (sem build step, fácil de hospedar em qualquer lugar)
+
+## Projeto<img width="1366" height="768" alt="Captura de tela 2026-08-12 011813" src="https://github.com/user-attachments/assets/0c8ef4ee-36a2-4f9e-b93b-52fb95dc80ce" />
+
+<img width="1366" height="768" alt="Captura de tela 2026-08-12 011822" src="https://github.com/user-attachments/assets/2657db6f-9c69-49f6-8151-4f1f3362b1fe" />
+
