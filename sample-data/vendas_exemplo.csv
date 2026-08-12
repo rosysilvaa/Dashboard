@@ -1,0 +1,321 @@
+id_venda,data,cliente,cidade,uf,produto,categoria,quantidade,valor_unitario,valor_total,canal
+V1005,2026-05-01,Thiago Barbosa,Belo Horizonte,MG,Suporte para Monitor,Acessórios,2,129.0,258.0,Marketplace
+V1237,2026-05-03,Juliana Ferreira,Belo Horizonte,MG,Cadeira Ergonômica,Móveis,1,1299.0,1299.0,Loja Física
+V1251,2026-05-03,Mariana Rocha,Olinda,PE,Fone Bluetooth ANC,Eletrônicos,1,599.0,599.0,Loja Física
+V1157,2026-05-04,Carlos Eduardo Lima,Fortaleza,CE,Notebook Gamer X15,Eletrônicos,1,4899.9,4899.9,Marketplace
+V1192,2026-05-04,Larissa Martins,Curitiba,PR,Notebook Gamer X15,Eletrônicos,4,4899.9,19599.6,Site
+V1280,2026-05-04,Diego Santos,Porto Alegre,RS,Cadeira Ergonômica,Móveis,1,1299.0,1299.0,App
+V1289,2026-05-04,Vanessa Correia,Fortaleza,CE,Mouse Sem Fio Pro,Eletrônicos,1,123.41,123.41,App
+V1150,2026-05-05,Vanessa Correia,Belo Horizonte,MG,Teclado Mecânico RGB,Eletrônicos,1,332.4,332.4,Site
+V1009,2026-05-06,Bruno Cardoso,São Paulo,SP,Power Bank 20000mAh,Acessórios,1,170.91,170.91,App
+V1057,2026-05-06,Lucas Andrade,João Pessoa,PB,Impressora Multifuncional,Eletrônicos,1,899.0,899.0,Site
+V1191,2026-05-06,Beatriz Ramos,Fortaleza,CE,Mochila para Notebook,Acessórios,2,219.9,439.8,Loja Física
+V1053,2026-05-07,Patrícia Gomes,Recife,PE,Mouse Sem Fio Pro,Eletrônicos,2,129.9,259.8,Site
+V1189,2026-05-07,Beatriz Ramos,São Paulo,SP,Teclado Mecânico RGB,Eletrônicos,2,349.9,699.8,Site
+V1210,2026-05-07,Gabriela Pereira,João Pessoa,PB,Power Bank 20000mAh,Acessórios,1,179.9,179.9,Loja Física
+V1263,2026-05-07,Patrícia Gomes,São Paulo,SP,Hub USB-C 7 em 1,Acessórios,2,189.9,379.8,Marketplace
+V1041,2026-05-08,Carlos Eduardo Lima,Brasília,DF,SSD NVMe 1TB,Eletrônicos,2,449.9,899.8,Marketplace
+V1269,2026-05-08,Larissa Martins,Belo Horizonte,MG,Mouse Sem Fio Pro,Eletrônicos,2,116.91,233.82,App
+V1292,2026-05-08,Rodrigo Teixeira,Porto Alegre,RS,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,App
+V1029,2026-05-09,Felipe Araújo,Salvador,BA,Cadeira Ergonômica,Móveis,1,1299.0,1299.0,App
+V1068,2026-05-09,Eduardo Machado,Belo Horizonte,MG,Power Bank 20000mAh,Acessórios,3,170.91,512.73,Site
+V1225,2026-05-09,Bruno Cardoso,Fortaleza,CE,Luminária LED Articulada,Móveis,1,149.9,149.9,Site
+V1258,2026-05-09,João Pedro Costa,Natal,RN,Cadeira Ergonômica,Móveis,1,1299.0,1299.0,Marketplace
+V1036,2026-05-10,Felipe Araújo,São Paulo,SP,Luminária LED Articulada,Móveis,2,149.9,299.8,Site
+V1047,2026-05-10,Vanessa Correia,São Paulo,SP,Notebook Gamer X15,Eletrônicos,1,4899.9,4899.9,Site
+V1226,2026-05-10,Carlos Eduardo Lima,Recife,PE,Fone Bluetooth ANC,Eletrônicos,1,569.05,569.05,Marketplace
+V1227,2026-05-10,Fernanda Alves,Natal,RN,Power Bank 20000mAh,Acessórios,3,179.9,539.7,Loja Física
+V1043,2026-05-11,Eduardo Machado,São Paulo,SP,Hub USB-C 7 em 1,Acessórios,1,189.9,189.9,App
+V1123,2026-05-11,Felipe Araújo,São Paulo,SP,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,App
+V1159,2026-05-11,Eduardo Machado,João Pessoa,PB,SSD NVMe 1TB,Eletrônicos,3,449.9,1349.7,App
+V1266,2026-05-11,Rafael Menezes,Olinda,PE,Mesa Escritório Compacta,Móveis,2,799.0,1598.0,Marketplace
+V1267,2026-05-11,Bruno Cardoso,Porto Alegre,RS,Cadeira Ergonômica,Móveis,2,1299.0,2598.0,Loja Física
+V1003,2026-05-12,Eduardo Machado,Recife,PE,"Monitor 27"" 4K",Eletrônicos,1,1804.05,1804.05,App
+V1017,2026-05-12,João Pedro Costa,Rio de Janeiro,RJ,Suporte para Monitor,Acessórios,1,122.55,122.55,App
+V1141,2026-05-12,João Pedro Costa,Porto Alegre,RS,"Monitor 27"" 4K",Eletrônicos,4,1899.0,7596.0,Site
+V1169,2026-05-12,Thiago Barbosa,Rio de Janeiro,RJ,Impressora Multifuncional,Eletrônicos,1,899.0,899.0,App
+V1281,2026-05-12,Rodrigo Teixeira,Olinda,PE,Mouse Sem Fio Pro,Eletrônicos,1,123.41,123.41,Loja Física
+V1156,2026-05-13,João Pedro Costa,Porto Alegre,RS,Suporte para Monitor,Acessórios,2,129.0,258.0,App
+V1233,2026-05-13,Bruno Cardoso,Fortaleza,CE,Câmera Web Full HD,Eletrônicos,2,259.9,519.8,App
+V1249,2026-05-13,Camila Nogueira,Rio de Janeiro,RJ,Hub USB-C 7 em 1,Acessórios,2,189.9,379.8,App
+V1304,2026-05-13,Camila Nogueira,Olinda,PE,Mesa Escritório Compacta,Móveis,1,759.05,759.05,Marketplace
+V1002,2026-05-14,Felipe Araújo,São Paulo,SP,Power Bank 20000mAh,Acessórios,2,179.9,359.8,Loja Física
+V1051,2026-05-14,Patrícia Gomes,Fortaleza,CE,Mochila para Notebook,Acessórios,1,208.91,208.91,App
+V1061,2026-05-14,Rodrigo Teixeira,Salvador,BA,Mesa Escritório Compacta,Móveis,3,759.05,2277.15,App
+V1101,2026-05-14,Gabriela Pereira,Brasília,DF,Mesa Escritório Compacta,Móveis,4,799.0,3196.0,App
+V1219,2026-05-14,Larissa Martins,Olinda,PE,"Monitor 27"" 4K",Eletrônicos,1,1899.0,1899.0,Site
+V1024,2026-05-15,Bruno Cardoso,Salvador,BA,Impressora Multifuncional,Eletrônicos,1,899.0,899.0,Site
+V1177,2026-05-15,Carlos Eduardo Lima,Fortaleza,CE,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,Loja Física
+V1221,2026-05-15,Diego Santos,Belo Horizonte,MG,Câmera Web Full HD,Eletrônicos,1,259.9,259.9,App
+V1120,2026-05-16,Eduardo Machado,Natal,RN,Câmera Web Full HD,Eletrônicos,2,246.9,493.8,App
+V1183,2026-05-16,Fernanda Alves,João Pessoa,PB,Hub USB-C 7 em 1,Acessórios,2,189.9,379.8,App
+V1295,2026-05-16,Mariana Rocha,São Paulo,SP,Fone Bluetooth ANC,Eletrônicos,1,599.0,599.0,Site
+V1054,2026-05-17,Rafael Menezes,Brasília,DF,Power Bank 20000mAh,Acessórios,4,179.9,719.6,Loja Física
+V1115,2026-05-17,Carlos Eduardo Lima,Olinda,PE,Fone Bluetooth ANC,Eletrônicos,1,599.0,599.0,Marketplace
+V1116,2026-05-17,Rodrigo Teixeira,São Paulo,SP,Power Bank 20000mAh,Acessórios,3,179.9,539.7,Site
+V1284,2026-05-17,Carlos Eduardo Lima,São Paulo,SP,Mesa Escritório Compacta,Móveis,1,799.0,799.0,App
+V1294,2026-05-17,Felipe Araújo,São Paulo,SP,Suporte para Monitor,Acessórios,1,129.0,129.0,Marketplace
+V1238,2026-05-18,João Pedro Costa,Olinda,PE,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,Site
+V1276,2026-05-18,Rafael Menezes,Brasília,DF,Hub USB-C 7 em 1,Acessórios,1,170.91,170.91,Loja Física
+V1158,2026-05-19,Vanessa Correia,João Pessoa,PB,"Monitor 27"" 4K",Eletrônicos,1,1899.0,1899.0,App
+V1187,2026-05-19,Rafael Menezes,São Paulo,SP,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,Site
+V1222,2026-05-19,Eduardo Machado,Rio de Janeiro,RJ,Fone Bluetooth ANC,Eletrônicos,1,599.0,599.0,Site
+V1270,2026-05-19,Gabriela Pereira,Recife,PE,Hub USB-C 7 em 1,Acessórios,2,189.9,379.8,App
+V1293,2026-05-19,Camila Nogueira,Brasília,DF,Cadeira Ergonômica,Móveis,3,1169.1,3507.3,Marketplace
+V1142,2026-05-20,Bruno Cardoso,Olinda,PE,Luminária LED Articulada,Móveis,3,149.9,449.7,Marketplace
+V1023,2026-05-21,Beatriz Ramos,Recife,PE,Câmera Web Full HD,Eletrônicos,4,259.9,1039.6,Marketplace
+V1049,2026-05-21,Bruno Cardoso,Natal,RN,Luminária LED Articulada,Móveis,2,149.9,299.8,Site
+V1097,2026-05-21,Ana Beatriz Souza,Fortaleza,CE,Fone Bluetooth ANC,Eletrônicos,1,599.0,599.0,Loja Física
+V1246,2026-05-21,Beatriz Ramos,Rio de Janeiro,RJ,Fone Bluetooth ANC,Eletrônicos,1,599.0,599.0,Loja Física
+V1285,2026-05-21,Lucas Andrade,Belo Horizonte,MG,Cadeira Ergonômica,Móveis,3,1234.05,3702.15,Marketplace
+V1215,2026-05-23,Lucas Andrade,Olinda,PE,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,Marketplace
+V1274,2026-05-24,Felipe Araújo,São Paulo,SP,Luminária LED Articulada,Móveis,1,142.41,142.41,Marketplace
+V1107,2026-05-25,Thiago Barbosa,Porto Alegre,RS,Mouse Sem Fio Pro,Eletrônicos,1,129.9,129.9,App
+V1114,2026-05-25,Rafael Menezes,Fortaleza,CE,Fone Bluetooth ANC,Eletrônicos,1,569.05,569.05,Site
+V1138,2026-05-25,Rodrigo Teixeira,João Pessoa,PB,Câmera Web Full HD,Eletrônicos,1,246.9,246.9,Loja Física
+V1148,2026-05-25,Larissa Martins,Salvador,BA,Mochila para Notebook,Acessórios,1,219.9,219.9,Loja Física
+V1075,2026-05-26,Lucas Andrade,Porto Alegre,RS,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,Site
+V1244,2026-05-26,Patrícia Gomes,Recife,PE,Suporte para Monitor,Acessórios,2,122.55,245.1,Loja Física
+V1261,2026-05-26,Carlos Eduardo Lima,Belo Horizonte,MG,Notebook Gamer X15,Eletrônicos,2,4899.9,9799.8,Marketplace
+V1305,2026-05-26,Beatriz Ramos,Recife,PE,SSD NVMe 1TB,Eletrônicos,1,449.9,449.9,Site
+V1052,2026-05-27,Patrícia Gomes,Olinda,PE,Power Bank 20000mAh,Acessórios,2,179.9,359.8,Loja Física
+V1139,2026-05-27,Bruno Cardoso,Porto Alegre,RS,Fone Bluetooth ANC,Eletrônicos,1,599.0,599.0,Loja Física
+V1185,2026-05-27,Felipe Araújo,Salvador,BA,Mouse Sem Fio Pro,Eletrônicos,2,123.41,246.82,App
+V1014,2026-05-28,Camila Nogueira,Salvador,BA,Impressora Multifuncional,Eletrônicos,3,899.0,2697.0,Loja Física
+V1096,2026-05-28,Diego Santos,Rio de Janeiro,RJ,Luminária LED Articulada,Móveis,2,142.41,284.82,Site
+V1299,2026-05-28,Carlos Eduardo Lima,Fortaleza,CE,SSD NVMe 1TB,Eletrônicos,1,449.9,449.9,Loja Física
+V1176,2026-05-29,Gabriela Pereira,Brasília,DF,Power Bank 20000mAh,Acessórios,1,179.9,179.9,Marketplace
+V1247,2026-05-29,Diego Santos,Recife,PE,Hub USB-C 7 em 1,Acessórios,1,189.9,189.9,Loja Física
+V1131,2026-05-30,Vanessa Correia,Natal,RN,Power Bank 20000mAh,Acessórios,2,161.91,323.82,Site
+V1186,2026-05-30,Eduardo Machado,Recife,PE,Cadeira Ergonômica,Móveis,2,1234.05,2468.1,Marketplace
+V1197,2026-05-30,Gabriela Pereira,Curitiba,PR,Mesa Escritório Compacta,Móveis,1,759.05,759.05,Loja Física
+V1031,2026-05-31,Juliana Ferreira,Olinda,PE,Fone Bluetooth ANC,Eletrônicos,2,569.05,1138.1,App
+V1059,2026-05-31,Rafael Menezes,Curitiba,PR,Hub USB-C 7 em 1,Acessórios,1,189.9,189.9,Site
+V1083,2026-05-31,Felipe Araújo,São Paulo,SP,Fone Bluetooth ANC,Eletrônicos,1,599.0,599.0,App
+V1178,2026-05-31,Larissa Martins,Porto Alegre,RS,Impressora Multifuncional,Eletrônicos,1,899.0,899.0,Marketplace
+V1255,2026-05-31,Fernanda Alves,Olinda,PE,SSD NVMe 1TB,Eletrônicos,1,449.9,449.9,Marketplace
+V1012,2026-06-01,Patrícia Gomes,João Pessoa,PB,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,App
+V1104,2026-06-01,Eduardo Machado,João Pessoa,PB,Suporte para Monitor,Acessórios,1,129.0,129.0,Loja Física
+V1313,2026-06-01,João Pedro Costa,Salvador,BA,Notebook Gamer X15,Eletrônicos,1,4899.9,4899.9,Site
+V1318,2026-06-01,Lucas Andrade,Fortaleza,CE,Fone Bluetooth ANC,Eletrônicos,1,569.05,569.05,Marketplace
+V1171,2026-06-02,Rodrigo Teixeira,Fortaleza,CE,Impressora Multifuncional,Eletrônicos,2,854.05,1708.1,Marketplace
+V1286,2026-06-02,Felipe Araújo,Fortaleza,CE,"Monitor 27"" 4K",Eletrônicos,2,1899.0,3798.0,App
+V1065,2026-06-03,Patrícia Gomes,Recife,PE,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,Site
+V1301,2026-06-03,Larissa Martins,Belo Horizonte,MG,Mochila para Notebook,Acessórios,1,219.9,219.9,Site
+V1088,2026-06-04,Larissa Martins,Belo Horizonte,MG,Mesa Escritório Compacta,Móveis,1,759.05,759.05,Loja Física
+V1111,2026-06-04,João Pedro Costa,Brasília,DF,Fone Bluetooth ANC,Eletrônicos,1,599.0,599.0,App
+V1113,2026-06-05,Beatriz Ramos,Natal,RN,Mochila para Notebook,Acessórios,1,197.91,197.91,Marketplace
+V1194,2026-06-05,Felipe Araújo,Brasília,DF,SSD NVMe 1TB,Eletrônicos,2,449.9,899.8,Marketplace
+V1204,2026-06-05,Thiago Barbosa,Olinda,PE,SSD NVMe 1TB,Eletrônicos,1,449.9,449.9,Site
+V1125,2026-06-06,Fernanda Alves,João Pessoa,PB,Mochila para Notebook,Acessórios,3,197.91,593.73,App
+V1166,2026-06-06,Eduardo Machado,Belo Horizonte,MG,Suporte para Monitor,Acessórios,2,129.0,258.0,App
+V1212,2026-06-06,Rodrigo Teixeira,Olinda,PE,Power Bank 20000mAh,Acessórios,2,179.9,359.8,Marketplace
+V1252,2026-06-06,Carlos Eduardo Lima,Salvador,BA,"Monitor 27"" 4K",Eletrônicos,1,1899.0,1899.0,Loja Física
+V1278,2026-06-07,Rafael Menezes,Brasília,DF,Impressora Multifuncional,Eletrônicos,1,854.05,854.05,App
+V1022,2026-06-08,Eduardo Machado,Salvador,BA,Hub USB-C 7 em 1,Acessórios,2,189.9,379.8,App
+V1069,2026-06-08,Thiago Barbosa,Belo Horizonte,MG,Câmera Web Full HD,Eletrônicos,1,259.9,259.9,Loja Física
+V1071,2026-06-08,Ana Beatriz Souza,Fortaleza,CE,Mesa Escritório Compacta,Móveis,1,799.0,799.0,Marketplace
+V1146,2026-06-08,Rodrigo Teixeira,Rio de Janeiro,RJ,Hub USB-C 7 em 1,Acessórios,1,189.9,189.9,Loja Física
+V1163,2026-06-08,Rodrigo Teixeira,São Paulo,SP,"Monitor 27"" 4K",Eletrônicos,4,1899.0,7596.0,App
+V1291,2026-06-08,Larissa Martins,Fortaleza,CE,Luminária LED Articulada,Móveis,1,149.9,149.9,Loja Física
+V1309,2026-06-08,Diego Santos,Belo Horizonte,MG,Luminária LED Articulada,Móveis,2,134.91,269.82,Site
+V1128,2026-06-09,Vanessa Correia,Fortaleza,CE,SSD NVMe 1TB,Eletrônicos,2,449.9,899.8,Loja Física
+V1206,2026-06-09,Ana Beatriz Souza,Rio de Janeiro,RJ,Impressora Multifuncional,Eletrônicos,1,899.0,899.0,App
+V1220,2026-06-09,Camila Nogueira,Rio de Janeiro,RJ,Mochila para Notebook,Acessórios,1,219.9,219.9,Site
+V1298,2026-06-09,Larissa Martins,Olinda,PE,Luminária LED Articulada,Móveis,1,134.91,134.91,Loja Física
+V1198,2026-06-10,Patrícia Gomes,Belo Horizonte,MG,Mesa Escritório Compacta,Móveis,1,799.0,799.0,App
+V1218,2026-06-11,Eduardo Machado,Porto Alegre,RS,Teclado Mecânico RGB,Eletrônicos,2,349.9,699.8,Marketplace
+V1060,2026-06-12,Lucas Andrade,Fortaleza,CE,Suporte para Monitor,Acessórios,3,122.55,367.65,App
+V1135,2026-06-12,Bruno Cardoso,João Pessoa,PB,Mesa Escritório Compacta,Móveis,2,759.05,1518.1,Loja Física
+V1153,2026-06-12,Felipe Araújo,Curitiba,PR,Hub USB-C 7 em 1,Acessórios,2,189.9,379.8,Marketplace
+V1020,2026-06-13,Rafael Menezes,Porto Alegre,RS,Mouse Sem Fio Pro,Eletrônicos,1,116.91,116.91,Site
+V1092,2026-06-13,Patrícia Gomes,Curitiba,PR,Suporte para Monitor,Acessórios,3,122.55,367.65,Marketplace
+V1106,2026-06-13,Patrícia Gomes,Olinda,PE,Fone Bluetooth ANC,Eletrônicos,3,599.0,1797.0,Site
+V1230,2026-06-13,Rafael Menezes,Recife,PE,Mochila para Notebook,Acessórios,1,208.91,208.91,App
+V1317,2026-06-13,Patrícia Gomes,Natal,RN,Câmera Web Full HD,Eletrônicos,1,259.9,259.9,Loja Física
+V1066,2026-06-14,Thiago Barbosa,Natal,RN,Mochila para Notebook,Acessórios,2,219.9,439.8,Site
+V1110,2026-06-14,Felipe Araújo,Belo Horizonte,MG,Mesa Escritório Compacta,Móveis,4,759.05,3036.2,Marketplace
+V1147,2026-06-14,Felipe Araújo,Curitiba,PR,Cadeira Ergonômica,Móveis,1,1169.1,1169.1,Loja Física
+V1162,2026-06-14,Thiago Barbosa,Brasília,DF,SSD NVMe 1TB,Eletrônicos,1,449.9,449.9,Marketplace
+V1087,2026-06-15,Thiago Barbosa,Olinda,PE,Fone Bluetooth ANC,Eletrônicos,2,599.0,1198.0,App
+V1164,2026-06-15,Bruno Cardoso,Recife,PE,SSD NVMe 1TB,Eletrônicos,1,449.9,449.9,Loja Física
+V1188,2026-06-15,Vanessa Correia,Belo Horizonte,MG,Suporte para Monitor,Acessórios,2,129.0,258.0,Site
+V1259,2026-06-15,Rafael Menezes,João Pessoa,PB,Câmera Web Full HD,Eletrônicos,1,233.91,233.91,Loja Física
+V1241,2026-06-16,Gabriela Pereira,Natal,RN,Power Bank 20000mAh,Acessórios,2,170.91,341.82,Marketplace
+V1056,2026-06-17,Thiago Barbosa,Rio de Janeiro,RJ,SSD NVMe 1TB,Eletrônicos,1,449.9,449.9,Site
+V1175,2026-06-17,Rodrigo Teixeira,Recife,PE,Mouse Sem Fio Pro,Eletrônicos,2,116.91,233.82,Marketplace
+V1181,2026-06-17,Lucas Andrade,Belo Horizonte,MG,"Monitor 27"" 4K",Eletrônicos,1,1709.1,1709.1,Site
+V1182,2026-06-17,Diego Santos,Recife,PE,Câmera Web Full HD,Eletrônicos,3,259.9,779.7,Loja Física
+V1008,2026-06-18,Eduardo Machado,Belo Horizonte,MG,Mouse Sem Fio Pro,Eletrônicos,1,123.41,123.41,App
+V1010,2026-06-18,Diego Santos,Rio de Janeiro,RJ,Fone Bluetooth ANC,Eletrônicos,1,599.0,599.0,Marketplace
+V1121,2026-06-18,Bruno Cardoso,Natal,RN,Luminária LED Articulada,Móveis,3,149.9,449.7,Loja Física
+V1039,2026-06-19,Gabriela Pereira,Fortaleza,CE,Fone Bluetooth ANC,Eletrônicos,3,599.0,1797.0,Loja Física
+V1084,2026-06-19,Juliana Ferreira,São Paulo,SP,Mochila para Notebook,Acessórios,1,219.9,219.9,Loja Física
+V1232,2026-06-19,Eduardo Machado,Recife,PE,Mesa Escritório Compacta,Móveis,2,799.0,1598.0,Marketplace
+V1296,2026-06-19,Lucas Andrade,Rio de Janeiro,RJ,Hub USB-C 7 em 1,Acessórios,2,170.91,341.82,Marketplace
+V1046,2026-06-20,Bruno Cardoso,Porto Alegre,RS,Teclado Mecânico RGB,Eletrônicos,2,314.91,629.82,Marketplace
+V1213,2026-06-20,Juliana Ferreira,Fortaleza,CE,SSD NVMe 1TB,Eletrônicos,1,427.4,427.4,App
+V1063,2026-06-21,Fernanda Alves,Fortaleza,CE,Cadeira Ergonômica,Móveis,1,1299.0,1299.0,Marketplace
+V1064,2026-06-21,Felipe Araújo,Belo Horizonte,MG,Power Bank 20000mAh,Acessórios,4,179.9,719.6,Site
+V1207,2026-06-21,Ana Beatriz Souza,São Paulo,SP,Mouse Sem Fio Pro,Eletrônicos,1,129.9,129.9,App
+V1264,2026-06-21,Larissa Martins,Belo Horizonte,MG,Mochila para Notebook,Acessórios,1,219.9,219.9,App
+V1201,2026-06-22,Thiago Barbosa,Brasília,DF,Cadeira Ergonômica,Móveis,3,1169.1,3507.3,Site
+V1145,2026-06-23,Beatriz Ramos,Fortaleza,CE,Cadeira Ergonômica,Móveis,3,1299.0,3897.0,Site
+V1290,2026-06-23,Rodrigo Teixeira,João Pessoa,PB,SSD NVMe 1TB,Eletrônicos,2,449.9,899.8,Marketplace
+V1314,2026-06-23,Juliana Ferreira,Curitiba,PR,Teclado Mecânico RGB,Eletrônicos,1,332.4,332.4,Loja Física
+V1016,2026-06-24,Diego Santos,Salvador,BA,Impressora Multifuncional,Eletrônicos,1,899.0,899.0,App
+V1018,2026-06-24,Larissa Martins,Natal,RN,SSD NVMe 1TB,Eletrônicos,1,449.9,449.9,Loja Física
+V1055,2026-06-24,Fernanda Alves,Brasília,DF,Câmera Web Full HD,Eletrônicos,1,259.9,259.9,App
+V1080,2026-06-26,Beatriz Ramos,Curitiba,PR,SSD NVMe 1TB,Eletrônicos,2,427.4,854.8,Loja Física
+V1133,2026-06-26,Vanessa Correia,Curitiba,PR,Impressora Multifuncional,Eletrônicos,1,809.1,809.1,Loja Física
+V1151,2026-06-26,Gabriela Pereira,Recife,PE,Mouse Sem Fio Pro,Eletrônicos,1,129.9,129.9,App
+V1193,2026-06-26,Camila Nogueira,Natal,RN,Mouse Sem Fio Pro,Eletrônicos,3,129.9,389.7,App
+V1211,2026-06-26,Beatriz Ramos,São Paulo,SP,Mesa Escritório Compacta,Móveis,1,799.0,799.0,Marketplace
+V1231,2026-06-26,Rafael Menezes,Belo Horizonte,MG,Câmera Web Full HD,Eletrônicos,1,233.91,233.91,Marketplace
+V1268,2026-06-26,Diego Santos,Natal,RN,Cadeira Ergonômica,Móveis,1,1299.0,1299.0,Loja Física
+V1124,2026-06-27,Bruno Cardoso,Recife,PE,Mochila para Notebook,Acessórios,1,219.9,219.9,App
+V1242,2026-06-27,Bruno Cardoso,Porto Alegre,RS,"Monitor 27"" 4K",Eletrônicos,1,1899.0,1899.0,App
+V1303,2026-06-27,Eduardo Machado,João Pessoa,PB,Suporte para Monitor,Acessórios,1,129.0,129.0,Site
+V1062,2026-06-28,Lucas Andrade,Salvador,BA,Cadeira Ergonômica,Móveis,1,1299.0,1299.0,Site
+V1174,2026-06-28,Patrícia Gomes,Natal,RN,Cadeira Ergonômica,Móveis,2,1234.05,2468.1,Loja Física
+V1208,2026-06-28,Bruno Cardoso,Brasília,DF,Cadeira Ergonômica,Móveis,1,1234.05,1234.05,Marketplace
+V1079,2026-06-29,Felipe Araújo,Natal,RN,Power Bank 20000mAh,Acessórios,1,161.91,161.91,Marketplace
+V1089,2026-06-29,Eduardo Machado,Olinda,PE,Impressora Multifuncional,Eletrônicos,1,809.1,809.1,Site
+V1091,2026-06-29,Larissa Martins,Belo Horizonte,MG,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,App
+V1161,2026-06-29,Felipe Araújo,Rio de Janeiro,RJ,Impressora Multifuncional,Eletrônicos,1,899.0,899.0,Site
+V1172,2026-06-29,Lucas Andrade,João Pessoa,PB,Mouse Sem Fio Pro,Eletrônicos,1,116.91,116.91,Loja Física
+V1026,2026-06-30,Beatriz Ramos,Natal,RN,Câmera Web Full HD,Eletrônicos,1,233.91,233.91,Loja Física
+V1093,2026-06-30,Carlos Eduardo Lima,Belo Horizonte,MG,Notebook Gamer X15,Eletrônicos,2,4899.9,9799.8,App
+V1117,2026-06-30,Rafael Menezes,Recife,PE,Luminária LED Articulada,Móveis,1,134.91,134.91,Marketplace
+V1134,2026-06-30,Camila Nogueira,João Pessoa,PB,Cadeira Ergonômica,Móveis,1,1234.05,1234.05,Site
+V1199,2026-06-30,Fernanda Alves,São Paulo,SP,Mouse Sem Fio Pro,Eletrônicos,1,129.9,129.9,Loja Física
+V1229,2026-06-30,Carlos Eduardo Lima,Porto Alegre,RS,Câmera Web Full HD,Eletrônicos,1,246.9,246.9,Site
+V1250,2026-06-30,Rodrigo Teixeira,Porto Alegre,RS,Mochila para Notebook,Acessórios,2,197.91,395.82,Site
+V1257,2026-06-30,Diego Santos,Fortaleza,CE,Notebook Gamer X15,Eletrônicos,2,4899.9,9799.8,Site
+V1038,2026-07-01,Carlos Eduardo Lima,Rio de Janeiro,RJ,"Monitor 27"" 4K",Eletrônicos,3,1899.0,5697.0,Loja Física
+V1118,2026-07-01,Larissa Martins,Porto Alegre,RS,Mouse Sem Fio Pro,Eletrônicos,2,129.9,259.8,Site
+V1143,2026-07-01,Felipe Araújo,Rio de Janeiro,RJ,Luminária LED Articulada,Móveis,1,149.9,149.9,Loja Física
+V1203,2026-07-01,Diego Santos,Olinda,PE,"Monitor 27"" 4K",Eletrônicos,2,1899.0,3798.0,Marketplace
+V1260,2026-07-01,Mariana Rocha,São Paulo,SP,Power Bank 20000mAh,Acessórios,1,179.9,179.9,Loja Física
+V1105,2026-07-03,Rodrigo Teixeira,Salvador,BA,Hub USB-C 7 em 1,Acessórios,1,180.41,180.41,Marketplace
+V1265,2026-07-03,Beatriz Ramos,Fortaleza,CE,Cadeira Ergonômica,Móveis,3,1234.05,3702.15,Site
+V1048,2026-07-04,Diego Santos,São Paulo,SP,Fone Bluetooth ANC,Eletrônicos,1,599.0,599.0,App
+V1248,2026-07-04,Fernanda Alves,Belo Horizonte,MG,Cadeira Ergonômica,Móveis,1,1299.0,1299.0,App
+V1073,2026-07-05,Rafael Menezes,João Pessoa,PB,Luminária LED Articulada,Móveis,2,149.9,299.8,Site
+V1279,2026-07-05,Juliana Ferreira,Rio de Janeiro,RJ,"Monitor 27"" 4K",Eletrônicos,1,1804.05,1804.05,App
+V1307,2026-07-05,Eduardo Machado,Belo Horizonte,MG,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,App
+V1082,2026-07-06,Patrícia Gomes,Porto Alegre,RS,Luminária LED Articulada,Móveis,2,142.41,284.82,Site
+V1256,2026-07-07,Beatriz Ramos,Olinda,PE,Câmera Web Full HD,Eletrônicos,1,259.9,259.9,Site
+V1273,2026-07-07,Patrícia Gomes,Salvador,BA,Cadeira Ergonômica,Móveis,1,1299.0,1299.0,Site
+V1035,2026-07-08,Rafael Menezes,Fortaleza,CE,Luminária LED Articulada,Móveis,1,149.9,149.9,Loja Física
+V1027,2026-07-09,Juliana Ferreira,Brasília,DF,Suporte para Monitor,Acessórios,2,129.0,258.0,Marketplace
+V1037,2026-07-09,Fernanda Alves,Salvador,BA,Hub USB-C 7 em 1,Acessórios,1,189.9,189.9,App
+V1085,2026-07-09,Juliana Ferreira,Curitiba,PR,Luminária LED Articulada,Móveis,1,134.91,134.91,Loja Física
+V1170,2026-07-09,Beatriz Ramos,Olinda,PE,Impressora Multifuncional,Eletrônicos,4,854.05,3416.2,Marketplace
+V1262,2026-07-09,Juliana Ferreira,Fortaleza,CE,Luminária LED Articulada,Móveis,1,142.41,142.41,Marketplace
+V1019,2026-07-10,João Pedro Costa,João Pessoa,PB,Hub USB-C 7 em 1,Acessórios,3,180.41,541.23,Marketplace
+V1050,2026-07-10,João Pedro Costa,Rio de Janeiro,RJ,Fone Bluetooth ANC,Eletrônicos,3,599.0,1797.0,Marketplace
+V1070,2026-07-10,Larissa Martins,João Pessoa,PB,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,App
+V1136,2026-07-10,Camila Nogueira,Fortaleza,CE,Notebook Gamer X15,Eletrônicos,1,4899.9,4899.9,Marketplace
+V1228,2026-07-10,Carlos Eduardo Lima,Porto Alegre,RS,Suporte para Monitor,Acessórios,2,129.0,258.0,App
+V1245,2026-07-10,Beatriz Ramos,São Paulo,SP,Impressora Multifuncional,Eletrônicos,1,899.0,899.0,Marketplace
+V1058,2026-07-11,Eduardo Machado,Brasília,DF,Impressora Multifuncional,Eletrônicos,3,809.1,2427.3,App
+V1173,2026-07-11,Larissa Martins,Recife,PE,Cadeira Ergonômica,Móveis,1,1299.0,1299.0,Marketplace
+V1025,2026-07-12,Rodrigo Teixeira,São Paulo,SP,Mouse Sem Fio Pro,Eletrônicos,1,129.9,129.9,App
+V1044,2026-07-12,Carlos Eduardo Lima,Natal,RN,"Monitor 27"" 4K",Eletrônicos,1,1899.0,1899.0,Site
+V1165,2026-07-12,Carlos Eduardo Lima,Natal,RN,Hub USB-C 7 em 1,Acessórios,2,180.41,360.82,Loja Física
+V1209,2026-07-12,Carlos Eduardo Lima,Rio de Janeiro,RJ,SSD NVMe 1TB,Eletrônicos,1,427.4,427.4,App
+V1224,2026-07-12,Eduardo Machado,Belo Horizonte,MG,Power Bank 20000mAh,Acessórios,2,179.9,359.8,Marketplace
+V1302,2026-07-12,Felipe Araújo,Fortaleza,CE,Câmera Web Full HD,Eletrônicos,1,259.9,259.9,Site
+V1032,2026-07-13,Rodrigo Teixeira,Curitiba,PR,SSD NVMe 1TB,Eletrônicos,1,449.9,449.9,App
+V1067,2026-07-13,Thiago Barbosa,Recife,PE,"Monitor 27"" 4K",Eletrônicos,1,1899.0,1899.0,App
+V1217,2026-07-13,Thiago Barbosa,Fortaleza,CE,Mesa Escritório Compacta,Móveis,2,799.0,1598.0,Site
+V1243,2026-07-13,Bruno Cardoso,Curitiba,PR,Luminária LED Articulada,Móveis,1,134.91,134.91,Loja Física
+V1254,2026-07-13,Bruno Cardoso,Curitiba,PR,"Monitor 27"" 4K",Eletrônicos,2,1899.0,3798.0,Site
+V1282,2026-07-13,Camila Nogueira,João Pessoa,PB,Mouse Sem Fio Pro,Eletrônicos,1,129.9,129.9,Site
+V1320,2026-07-13,Larissa Martins,Belo Horizonte,MG,Power Bank 20000mAh,Acessórios,1,179.9,179.9,App
+V1042,2026-07-14,Beatriz Ramos,Rio de Janeiro,RJ,Luminária LED Articulada,Móveis,1,134.91,134.91,Site
+V1045,2026-07-14,Patrícia Gomes,Salvador,BA,SSD NVMe 1TB,Eletrônicos,1,449.9,449.9,Marketplace
+V1072,2026-07-14,Gabriela Pereira,Porto Alegre,RS,SSD NVMe 1TB,Eletrônicos,2,449.9,899.8,Loja Física
+V1086,2026-07-14,Vanessa Correia,Curitiba,PR,Mochila para Notebook,Acessórios,1,219.9,219.9,Loja Física
+V1160,2026-07-14,Patrícia Gomes,Porto Alegre,RS,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,Marketplace
+V1234,2026-07-14,Diego Santos,Fortaleza,CE,Power Bank 20000mAh,Acessórios,1,179.9,179.9,Loja Física
+V1310,2026-07-14,Ana Beatriz Souza,Natal,RN,Fone Bluetooth ANC,Eletrônicos,2,599.0,1198.0,Loja Física
+V1312,2026-07-14,Eduardo Machado,Curitiba,PR,Luminária LED Articulada,Móveis,1,142.41,142.41,App
+V1090,2026-07-15,Fernanda Alves,João Pessoa,PB,SSD NVMe 1TB,Eletrônicos,2,449.9,899.8,Loja Física
+V1099,2026-07-16,Vanessa Correia,Recife,PE,Suporte para Monitor,Acessórios,1,129.0,129.0,Marketplace
+V1130,2026-07-16,Camila Nogueira,Natal,RN,Notebook Gamer X15,Eletrônicos,3,4899.9,14699.7,Marketplace
+V1144,2026-07-16,Mariana Rocha,São Paulo,SP,Câmera Web Full HD,Eletrônicos,2,246.9,493.8,Marketplace
+V1184,2026-07-16,Camila Nogueira,Salvador,BA,Notebook Gamer X15,Eletrônicos,1,4654.9,4654.9,App
+V1195,2026-07-16,Beatriz Ramos,Natal,RN,Câmera Web Full HD,Eletrônicos,1,259.9,259.9,Loja Física
+V1202,2026-07-16,Vanessa Correia,Olinda,PE,Fone Bluetooth ANC,Eletrônicos,1,599.0,599.0,App
+V1007,2026-07-17,Gabriela Pereira,Olinda,PE,Fone Bluetooth ANC,Eletrônicos,2,539.1,1078.2,Site
+V1287,2026-07-18,Rafael Menezes,Natal,RN,Câmera Web Full HD,Eletrônicos,1,259.9,259.9,App
+V1308,2026-07-18,Vanessa Correia,Belo Horizonte,MG,Mochila para Notebook,Acessórios,2,208.91,417.82,Loja Física
+V1095,2026-07-19,Rodrigo Teixeira,João Pessoa,PB,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,Site
+V1122,2026-07-19,João Pedro Costa,Salvador,BA,Notebook Gamer X15,Eletrônicos,2,4899.9,9799.8,App
+V1167,2026-07-19,Mariana Rocha,João Pessoa,PB,Fone Bluetooth ANC,Eletrônicos,2,539.1,1078.2,Site
+V1253,2026-07-19,Rodrigo Teixeira,Natal,RN,Luminária LED Articulada,Móveis,1,149.9,149.9,Site
+V1288,2026-07-19,Camila Nogueira,Natal,RN,Mochila para Notebook,Acessórios,3,208.91,626.73,Site
+V1076,2026-07-20,Larissa Martins,Porto Alegre,RS,SSD NVMe 1TB,Eletrônicos,1,449.9,449.9,Loja Física
+V1126,2026-07-20,Juliana Ferreira,Curitiba,PR,SSD NVMe 1TB,Eletrônicos,2,449.9,899.8,Site
+V1140,2026-07-20,Rafael Menezes,Fortaleza,CE,SSD NVMe 1TB,Eletrônicos,2,449.9,899.8,Site
+V1001,2026-07-21,Patrícia Gomes,Salvador,BA,Mouse Sem Fio Pro,Eletrônicos,1,129.9,129.9,App
+V1015,2026-07-22,Mariana Rocha,Salvador,BA,Luminária LED Articulada,Móveis,1,142.41,142.41,Marketplace
+V1034,2026-07-22,Camila Nogueira,São Paulo,SP,Mouse Sem Fio Pro,Eletrônicos,1,129.9,129.9,App
+V1108,2026-07-22,Ana Beatriz Souza,São Paulo,SP,Mochila para Notebook,Acessórios,1,219.9,219.9,Marketplace
+V1127,2026-07-22,Mariana Rocha,São Paulo,SP,Teclado Mecânico RGB,Eletrônicos,3,349.9,1049.7,Site
+V1168,2026-07-22,Gabriela Pereira,Recife,PE,Notebook Gamer X15,Eletrônicos,1,4654.9,4654.9,Marketplace
+V1077,2026-07-23,João Pedro Costa,Curitiba,PR,Mochila para Notebook,Acessórios,1,219.9,219.9,App
+V1152,2026-07-23,Patrícia Gomes,Belo Horizonte,MG,Teclado Mecânico RGB,Eletrônicos,1,349.9,349.9,Loja Física
+V1180,2026-07-23,Eduardo Machado,Curitiba,PR,Mouse Sem Fio Pro,Eletrônicos,2,129.9,259.8,Marketplace
+V1300,2026-07-23,Felipe Araújo,Recife,PE,Power Bank 20000mAh,Acessórios,1,179.9,179.9,Site
+V1311,2026-07-23,Vanessa Correia,Natal,RN,Suporte para Monitor,Acessórios,4,122.55,490.2,App
+V1033,2026-07-24,Thiago Barbosa,Porto Alegre,RS,Mesa Escritório Compacta,Móveis,1,799.0,799.0,Site
+V1074,2026-07-24,Fernanda Alves,Salvador,BA,Power Bank 20000mAh,Acessórios,2,179.9,359.8,Marketplace
+V1100,2026-07-24,Camila Nogueira,Recife,PE,Cadeira Ergonômica,Móveis,1,1234.05,1234.05,Loja Física
+V1205,2026-07-24,Ana Beatriz Souza,Rio de Janeiro,RJ,Hub USB-C 7 em 1,Acessórios,2,180.41,360.82,Marketplace
+V1316,2026-07-24,Camila Nogueira,Rio de Janeiro,RJ,Luminária LED Articulada,Móveis,1,134.91,134.91,Loja Física
+V1011,2026-07-25,Fernanda Alves,Natal,RN,Fone Bluetooth ANC,Eletrônicos,2,599.0,1198.0,App
+V1028,2026-07-25,Beatriz Ramos,Porto Alegre,RS,Power Bank 20000mAh,Acessórios,1,179.9,179.9,Site
+V1236,2026-07-25,Beatriz Ramos,São Paulo,SP,Mochila para Notebook,Acessórios,2,219.9,439.8,Loja Física
+V1132,2026-07-26,Carlos Eduardo Lima,Rio de Janeiro,RJ,Hub USB-C 7 em 1,Acessórios,1,189.9,189.9,Loja Física
+V1272,2026-07-26,Diego Santos,Porto Alegre,RS,Luminária LED Articulada,Móveis,3,149.9,449.7,Site
+V1119,2026-07-27,Vanessa Correia,Fortaleza,CE,Notebook Gamer X15,Eletrônicos,1,4409.91,4409.91,Site
+V1155,2026-07-27,Lucas Andrade,Brasília,DF,Impressora Multifuncional,Eletrônicos,1,899.0,899.0,Site
+V1277,2026-07-27,Diego Santos,Brasília,DF,Hub USB-C 7 em 1,Acessórios,4,189.9,759.6,Site
+V1283,2026-07-27,Felipe Araújo,João Pessoa,PB,Câmera Web Full HD,Eletrônicos,1,246.9,246.9,App
+V1109,2026-07-28,Vanessa Correia,Belo Horizonte,MG,"Monitor 27"" 4K",Eletrônicos,1,1899.0,1899.0,Loja Física
+V1129,2026-07-28,Patrícia Gomes,Olinda,PE,Fone Bluetooth ANC,Eletrônicos,2,599.0,1198.0,Loja Física
+V1240,2026-07-28,Rafael Menezes,Brasília,DF,Suporte para Monitor,Acessórios,2,129.0,258.0,Loja Física
+V1319,2026-07-28,Rodrigo Teixeira,Belo Horizonte,MG,Mochila para Notebook,Acessórios,1,219.9,219.9,Marketplace
+V1004,2026-07-29,Gabriela Pereira,Natal,RN,Câmera Web Full HD,Eletrônicos,1,246.9,246.9,Marketplace
+V1078,2026-07-29,Felipe Araújo,Salvador,BA,Câmera Web Full HD,Eletrônicos,1,259.9,259.9,Site
+V1196,2026-07-29,Felipe Araújo,Brasília,DF,Mouse Sem Fio Pro,Eletrônicos,3,129.9,389.7,App
+V1030,2026-07-30,Fernanda Alves,Recife,PE,Power Bank 20000mAh,Acessórios,1,179.9,179.9,Marketplace
+V1235,2026-07-30,Larissa Martins,João Pessoa,PB,Mouse Sem Fio Pro,Eletrônicos,1,123.41,123.41,Marketplace
+V1275,2026-07-30,Eduardo Machado,Fortaleza,CE,Luminária LED Articulada,Móveis,1,149.9,149.9,Loja Física
+V1098,2026-07-31,Lucas Andrade,São Paulo,SP,"Monitor 27"" 4K",Eletrônicos,1,1804.05,1804.05,Marketplace
+V1306,2026-07-31,Beatriz Ramos,Porto Alegre,RS,Cadeira Ergonômica,Móveis,2,1299.0,2598.0,App
+V1021,2026-08-01,Rafael Menezes,Olinda,PE,Fone Bluetooth ANC,Eletrônicos,4,569.05,2276.2,Site
+V1297,2026-08-01,Rafael Menezes,Porto Alegre,RS,Cadeira Ergonômica,Móveis,1,1299.0,1299.0,Loja Física
+V1040,2026-08-02,Rodrigo Teixeira,Rio de Janeiro,RJ,Suporte para Monitor,Acessórios,1,129.0,129.0,App
+V1102,2026-08-02,Patrícia Gomes,Natal,RN,Câmera Web Full HD,Eletrônicos,4,259.9,1039.6,Loja Física
+V1103,2026-08-02,Lucas Andrade,São Paulo,SP,SSD NVMe 1TB,Eletrônicos,1,427.4,427.4,Marketplace
+V1200,2026-08-03,Felipe Araújo,Recife,PE,Cadeira Ergonômica,Móveis,2,1299.0,2598.0,Marketplace
+V1216,2026-08-03,Gabriela Pereira,São Paulo,SP,Notebook Gamer X15,Eletrônicos,1,4899.9,4899.9,Marketplace
+V1315,2026-08-03,Mariana Rocha,Olinda,PE,Mochila para Notebook,Acessórios,1,219.9,219.9,App
+V1081,2026-08-04,Patrícia Gomes,Salvador,BA,Hub USB-C 7 em 1,Acessórios,1,180.41,180.41,Marketplace
+V1112,2026-08-04,Rafael Menezes,Salvador,BA,Câmera Web Full HD,Eletrônicos,4,246.9,987.6,App
+V1149,2026-08-04,Larissa Martins,Curitiba,PR,Luminária LED Articulada,Móveis,2,149.9,299.8,App
+V1179,2026-08-04,Thiago Barbosa,Natal,RN,Mochila para Notebook,Acessórios,3,208.91,626.73,App
+V1006,2026-08-06,Larissa Martins,São Paulo,SP,Cadeira Ergonômica,Móveis,1,1234.05,1234.05,Marketplace
+V1154,2026-08-06,Carlos Eduardo Lima,Natal,RN,Luminária LED Articulada,Móveis,3,149.9,449.7,Site
+V1214,2026-08-06,João Pedro Costa,Recife,PE,Fone Bluetooth ANC,Eletrônicos,1,569.05,569.05,Loja Física
+V1013,2026-08-07,Carlos Eduardo Lima,Belo Horizonte,MG,Suporte para Monitor,Acessórios,1,129.0,129.0,Loja Física
+V1137,2026-08-07,Ana Beatriz Souza,João Pessoa,PB,Mesa Escritório Compacta,Móveis,3,799.0,2397.0,Loja Física
+V1223,2026-08-07,Vanessa Correia,Natal,RN,Power Bank 20000mAh,Acessórios,1,179.9,179.9,Loja Física
+V1239,2026-08-07,Larissa Martins,Rio de Janeiro,RJ,SSD NVMe 1TB,Eletrônicos,1,449.9,449.9,App
+V1094,2026-08-08,Ana Beatriz Souza,Salvador,BA,Power Bank 20000mAh,Acessórios,1,170.91,170.91,App
+V1190,2026-08-08,João Pedro Costa,Porto Alegre,RS,Cadeira Ergonômica,Móveis,1,1169.1,1169.1,App
+V1271,2026-08-08,Larissa Martins,Natal,RN,Power Bank 20000mAh,Acessórios,1,179.9,179.9,Site
